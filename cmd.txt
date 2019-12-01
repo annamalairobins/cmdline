@@ -1,0 +1,1 @@
+curl -u "annamalairobins" -H "Content-Type: application/json" -X POST -d {\"name\":\"cmdline\"} https://api.github.com/user/repos
